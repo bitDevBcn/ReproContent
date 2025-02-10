@@ -4,6 +4,7 @@ export default defineContentConfig({
   collections: {
     categorias: defineCollection({
       type: 'page',
+      source:'categorias/*.md',
       schema: z.object({
         title: z.string(),
         description: z.string(),
