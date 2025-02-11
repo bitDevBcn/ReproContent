@@ -1,17 +1,18 @@
 ---
 title: "Eventos"
-description: "Soluciones creativas para branding, publicidad y comunicación visual en eventos."
+description: "Material promocional y corporativo para eventos y ferias."
 slug: "eventos"
 image: "/img/mockupCategores.png"
 draft: false
-tags: ["branding", "publicidad", "visual"]
+tags: ["ferias", "congresos", "publicidad"]
 ---
 
 ## ¿Qué ofrecemos?
-Nuestro servicio de diseño gráfico te ayuda a crear una identidad visual impactante.
+Diseño e impresión de material gráfico para potenciar tu marca en eventos.
 
 ### Servicios disponibles:
-- Logotipos y branding
-- Diseño editorial
-- Publicidad impresa y digital
-- Diseño para redes sociales
+- Banners y roll-ups
+- Invitaciones y credenciales
+- Carpetas y folletos corporativos
+- Decoración y señalética de eventos
+

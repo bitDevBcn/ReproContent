@@ -1,5 +1,5 @@
 ---
-title: "Eventos"
+title: "Libros y Revistas"
 description: "Soluciones creativas para branding, publicidad y comunicación visual en eventos."
 slug: "libros"
 image: "/img/mockupCategores.png"
